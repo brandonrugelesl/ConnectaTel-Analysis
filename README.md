@@ -45,4 +45,4 @@ Evaluar el comportamiento de los clientes de ConnectaTel a partir de datos regis
 - El comportamiento de consumo de minutos es similar entre planes Básico y Premium, lo que sugiere que el valor percibido del plan Premium podría no estar ligado a los minutos incluidos.
 - Se recomienda diseñar un plan intermedio entre Básico y Premium y dirigir campañas de fidelización al segmento de Adultos con plan Básico.
 
-Link al repositorio público del proyecto: `[]`
+Link al repositorio público del proyecto: `[https://github.com/brandonrugelesl/ConnectaTel-Analysis]`
